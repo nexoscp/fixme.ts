@@ -1,0 +1,7 @@
+*.iml
+*.ipr
+*.iws
+*.tgz
+package-lock.json
+.nvmrc
+node_modules/
