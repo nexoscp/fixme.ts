@@ -9,6 +9,11 @@
     "type": "git",
     "url": "https://github.com/nexoscp/fixme.ts.git"
   },
+  "bugs": {
+    "url": "https://github.com/nexoscp/fixme.ts/issues"
+  },
+  "homepage": "https://github.com/nexoscp/fixme.ts",
+  "readme": "README.md",
   "engines": {
     "node": "10.16.0"
   },
