@@ -1,6 +1,6 @@
 {
   "name": "fixme.ts",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "FIXME as type alias for any",
   "author": "neXos",
   "license": "MIT",
@@ -16,9 +16,6 @@
   "readme": "README.md",
   "engines": {
     "node": "10.16.0"
-  },
-  "scripts": {
-    "preinstall": "echo $npm_package_engines_node > .nvmrc"
   },
   "devDependencies": {
     "typescript": "^2.0.0"
